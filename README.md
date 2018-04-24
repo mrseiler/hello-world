@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+My name is Mason Seiler. I love to play soccer.
